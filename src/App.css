@@ -18,6 +18,11 @@
   font-size: 1.5em;
 }
 
+.App-name {
+  font-size: 1.2em;
+  color: greenyellow;
+}
+
 .App-intro {
   font-size: large;
 }
