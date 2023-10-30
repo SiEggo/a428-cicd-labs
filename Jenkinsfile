@@ -27,7 +27,7 @@ pipeline {
                 sh './jenkins/scripts/deliver.sh' 
                 echo 'Menunggu 1 menit sebelum mengakhiri aplikasi...'
                 sleep 60
-                echo 'Waktu menunggu telah selesai. Melanjutkan ke langkah berikutnya.'
+                echo 'Waktu menunggu telah selesai. Melanjutkan ke langkah berikutnya...'
             }
         }
     }
